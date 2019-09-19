@@ -211,9 +211,3 @@ function showStatus(){
         stayButton.style.display = "none";
     }
 }
-
-// let deck = createDeck();
-// let playerCards = [getNextCard(), getNextCard()];
-
-// console.log(playerCards);
-// console.log(getCardString(playerCards[0]));
